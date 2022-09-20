@@ -1,7 +1,7 @@
 # armdat
 Download repository
 —————————
-git clone https://github.com/dxgfvjfvmn/fghjyrcfgt.git
+git clone https://github.com/dxgfvjfvmn/armdat.git
 
 cd fghjyrcfgt
 
